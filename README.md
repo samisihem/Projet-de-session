@@ -8,7 +8,7 @@ Apres avoir selectionner les donnees ainsi que la taille du K-mer (cell[] jusqu'
 
 ### Recursive features elimination (RFE):
 
-RFE est une méthode de sélection d'attribut qui supprime les attributs les plus faibles jusqu'à ce que le nombre spécifié d'attributs soit atteint. L'algorithme SVM est utilise pour la classification.
+RFE est une méthode de sélection d'attribut qui supprime les attributs les plus faibles jusqu'à ce que le nombre spécifié d'attributs soit atteint. L'algorithme SVM est utilise par la suite pour la classification.
 
 ### Auto-encoder (AE) :
 
