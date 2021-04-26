@@ -16,3 +16,11 @@ AE est utilisé pour une meilleure représentation des données. L'objectif est 
 
 L'auto-encoder est alimenté par tout l'ensemble de données décrivant les séquences VIH (Matrice avec les fréquences k-mer pour chaque séquence). Selon un certain nombre d'itération, une nouvelle représentation des données d'origine est obtenue. Cette dernière sera utilisée par l'algorithme SVM pour la classification.
 
+## Plan d'experimentation:
+
+L'experimentation est faite sur differentes taille du k-mer allant de 3 jusqu'a 5.
+Pour chaque taille un nouveau modele d'auto-encoder est utilise, avec des archtecture differentes.
+
+k = 3 -> cell[]
+K = 4 -> cell[]
+K = 5 -> cell[]
