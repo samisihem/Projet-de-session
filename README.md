@@ -22,5 +22,7 @@ L'experimentation est faite sur differentes taille du k-mer allant de 3 jusqu'a 
 Pour chaque taille un nouveau modele d'auto-encoder est utilise, avec des archtecture differentes.
 
 k = 3 -> cell[]
+
 K = 4 -> cell[]
+
 K = 5 -> cell[]
